@@ -58,6 +58,7 @@ To install Publify you need the following:
 1.  Unzip Publify archive
 2.  Rename database.yml.yourEngine as database.yml
 3.  Edit database.yml to add your database name, login and password.
+4.  Edit 404.html to follow your own links.
 
 ```bash
 $ bundle install
